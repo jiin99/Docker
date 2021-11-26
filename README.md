@@ -1,4 +1,7 @@
 # Set docker container environment
+- OS/Arch : linux/amd64
+- Docker version : 20.10.7
+
 
 ### 1. Create Dockerfile
 ```bash
